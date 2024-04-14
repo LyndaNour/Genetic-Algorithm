@@ -1,0 +1,12 @@
+Best Schedule:
+Activity: SLA451, Room: Beach 301, Time: 12 PM, Facilitator: Numen
+Activity: SLA100A, Room: Roman 201, Time: 10 AM, Facilitator: Glen
+Activity: SLA304, Room: Beach 301, Time: 11 AM, Facilitator: Glen
+Activity: SLA191A, Room: Roman 216, Time: 12 PM, Facilitator: Glen
+Activity: SLA100B, Room: Loft 310, Time: 3 PM, Facilitator: Uther
+Activity: SLA100B, Room: Slater 003, Time: 12 PM, Facilitator: Singer
+Activity: SLA303, Room: Loft 310, Time: 1 PM, Facilitator: Numen
+Activity: SLA304, Room: Roman 216, Time: 10 AM, Facilitator: Shaw
+Activity: SLA394, Room: Beach 301, Time: 1 PM, Facilitator: Banks
+Activity: SLA100B, Room: Loft 206, Time: 10 AM, Facilitator: Banks
+Activity: SLA449, Room: Loft 206, Time: 1 PM, Facilitator: Banks
